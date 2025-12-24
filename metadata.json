@@ -1,0 +1,5 @@
+{
+  "name": "Vision AI Detector",
+  "description": "An advanced object detection and OCR application using Gemini API to analyze images from files.",
+  "requestFramePermissions": []
+}
